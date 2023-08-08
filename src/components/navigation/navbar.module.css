@@ -1,0 +1,14 @@
+li{
+    list-style: none;
+}
+.navItem{
+    margin-bottom: 1vh;
+
+}
+a{
+    text-decoration: none;
+    color: rgb(19, 145, 199);
+}
+.link_title{
+    font-size: 1vw;
+}
