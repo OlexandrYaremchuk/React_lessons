@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/React_lessons/static/css/main.c14de762.css",
-    "main.js": "/React_lessons/static/js/main.740b8166.js",
+    "main.css": "/React_lessons/static/css/main.9e810c80.css",
+    "main.js": "/React_lessons/static/js/main.8b612991.js",
     "static/media/class_fn_component.png": "/React_lessons/static/media/class_fn_component.a1f6ef2ec4ccf04ff97d.png",
     "static/media/virtualDom.jpg": "/React_lessons/static/media/virtualDom.7e4ad3a20b08e26c814e.jpg",
     "static/media/lifeCycle.png": "/React_lessons/static/media/lifeCycle.9608d3f16ed89579ee09.png",
     "static/media/diagram.jpg": "/React_lessons/static/media/diagram.77d44d78b688d5f02eac.jpg",
+    "static/media/props.png": "/React_lessons/static/media/props.899d003c3bd6d0f4d70c.png",
     "static/media/request1.png": "/React_lessons/static/media/request1.6451f234c4b56187ded5.png",
     "static/media/request2.png": "/React_lessons/static/media/request2.3ec380748361a7df173a.png",
     "static/media/sprite.svg": "/React_lessons/static/media/sprite.9310228960ef7fd9564558b0b2422760.svg",
     "index.html": "/React_lessons/index.html",
-    "main.c14de762.css.map": "/React_lessons/static/css/main.c14de762.css.map",
-    "main.740b8166.js.map": "/React_lessons/static/js/main.740b8166.js.map"
+    "main.9e810c80.css.map": "/React_lessons/static/css/main.9e810c80.css.map",
+    "main.8b612991.js.map": "/React_lessons/static/js/main.8b612991.js.map"
   },
   "entrypoints": [
-    "static/css/main.c14de762.css",
-    "static/js/main.740b8166.js"
+    "static/css/main.9e810c80.css",
+    "static/js/main.8b612991.js"
   ]
 }
