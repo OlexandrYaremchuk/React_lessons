@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React_lessons/static/css/main.9e810c80.css",
-    "main.js": "/React_lessons/static/js/main.f2a55af4.js",
+    "main.js": "/React_lessons/static/js/main.adc3c49b.js",
     "static/media/class_fn_component.png": "/React_lessons/static/media/class_fn_component.a1f6ef2ec4ccf04ff97d.png",
     "static/media/virtualDom.jpg": "/React_lessons/static/media/virtualDom.7e4ad3a20b08e26c814e.jpg",
     "static/media/lifeCycle.png": "/React_lessons/static/media/lifeCycle.9608d3f16ed89579ee09.png",
@@ -12,10 +12,10 @@
     "static/media/sprite.svg": "/React_lessons/static/media/sprite.9310228960ef7fd9564558b0b2422760.svg",
     "index.html": "/React_lessons/index.html",
     "main.9e810c80.css.map": "/React_lessons/static/css/main.9e810c80.css.map",
-    "main.f2a55af4.js.map": "/React_lessons/static/js/main.f2a55af4.js.map"
+    "main.adc3c49b.js.map": "/React_lessons/static/js/main.adc3c49b.js.map"
   },
   "entrypoints": [
     "static/css/main.9e810c80.css",
-    "static/js/main.f2a55af4.js"
+    "static/js/main.adc3c49b.js"
   ]
 }
